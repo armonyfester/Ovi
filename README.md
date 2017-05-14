@@ -1,7 +1,7 @@
 # Introducci-n-al-desarrollo-de-software.OVI
 <htmL>
-<header><img src="andychill/logo.gif" width"90" height"40"></header>
-<head>
+<header><img src="logo.gif"></header>
+
 <title>  OVI  </title>
 
 
@@ -28,12 +28,12 @@
    color: #ffffff;
 }
    </style>
-</head>
-<link rel="stylesheet" type="text/css" a href="andychill/estilos/estilos.css">
-<link rel="stylesheet"  href="andychill//estilos/fonts.css">
+
+<link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
+<link rel="stylesheet"  href="estilos/fonts.css">
 
 
-<h1 align=center><CENTER><IMG SRC="andychill/imagenes/OVI.png" width"90" height"40"></IMG></CENTER></h1> 
+<CENTER><IMG SRC="andychill/imagenes/OVI.png"></IMG></CENTER> 
 
 <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=37nwfaa2yytkaqpcna9t3qlh1dun24h1"></script>
 <noscript><a href="https://www.contadorvisitasgratis.com" title="contador web"><img src="https://counter1.fcs.ovh/private/contadorvisitasgratis.php?c=37nwfaa2yytkaqpcna9t3qlh1dun24h1" border="0" title="contador web" alt="contador web"></a></noscript>
@@ -41,7 +41,7 @@
          
 
 
-<body background="andychill/imagenes/b.jpg">
+<body background="imagenes/b.jpg">
 
 
 
@@ -51,7 +51,7 @@
 <div id="navegador">
 <ul>
 <H1>
-<li class="navhome"><a href="andychill/Inicio.htmL"><span>Objetivos </span></a></li>
+<li class="navhome"><a href="andychill/Inicio.md"><span>Objetivos </span></a></li>
 <li class="navhome"><a href="andychill/Lecturas.htmL"><span>Lecturas</span></a></li>
 <li class="navhome"><a href="andychill/Multimedia.htmL"><span>Multimedia</span></a></li>
 <li class="navhome"><a href="andychill/Autores.htmL"><span>Autores</span></a></li>
