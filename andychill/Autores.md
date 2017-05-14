@@ -5,7 +5,6 @@
 
 
 <link rel="stylesheet"  href="estilos/fonts.css">
-<title>AUTOR</title>
 <link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
 
 
