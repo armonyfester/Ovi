@@ -3,9 +3,9 @@
 <title>Objetivos</title>
 <header><img src="logo.gif" width"90" height"40"></img></header>
 <head>
-<body background="andychill/imagenes/a.jpg">
-<link rel="stylesheet" type="text/css" a href="andychill/estilos/estilos.css">
-<link rel="stylesheet"  href="andychill/estilos/fonts.css">
+<body background="imagenes/a.jpg">
+<link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
+<link rel="stylesheet"  href="estilos/fonts.css">
 
 </head>
 
