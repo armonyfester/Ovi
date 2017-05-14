@@ -1,16 +1,17 @@
 <html>
-<header><img src="logo.gif" width"90" height"40"></img></header>
-<head>
+<header><img src="logo.gif" width"90" height"40"></header>
+
 <link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
-	<link rel="stylesheet"  href="estilos/fonts.css">
+<link rel="stylesheet"  href="estilos/fonts.css">
+
 <title>Lecturas</title>
 
 <body background="imagenes/c.jpg">
 
-<H1><CENTER><font face="Comic Sans MS"><IMG SRC="imagenes/LECTU.png" width"90" height"40"></IMG></font face="Comic Sans MS"></CENTER> </H1>
+<CENTER><h1><font face="Comic Sans MS"><IMG SRC="imagenes/LECTU.png" width"90" height"40"></IMG></font></h1></CENTER> 
 
-<H2><article><p><center>Las lecturas que encontraremos aqui nos permitiran conocer mas a fondo la Ingenieria de Desarrollo de Software.</center></p></article></H2>
-<article><center><h4><p>Adelante!!!</h4></p></article></center>
+<article><center><h2><p>Las lecturas que encontraremos aqui nos permitiran conocer mas a fondo la Ingenieria de Desarrollo de Software.</p></h2></center></article>
+<article><center><h4><p>Adelante!!!</p></h4></center></article>
 <article><center>
 <div id="navbar">
 
@@ -42,5 +43,5 @@
 	</div>
 </body>
 
-</head>
+
 </html>
