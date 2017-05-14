@@ -33,7 +33,7 @@
 <link rel="stylesheet"  href="andychill/estilos/fonts.css">
 
 
-<CENTER><IMG SRC="andychill/imagenes/OVI.png"></IMG></CENTER> 
+<CENTER><IMG SRC="imagenes/OVI.png"></IMG></CENTER> 
 
 <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=37nwfaa2yytkaqpcna9t3qlh1dun24h1"></script>
 <noscript><a href="https://www.contadorvisitasgratis.com" title="contador web"><img src="https://counter1.fcs.ovh/private/contadorvisitasgratis.php?c=37nwfaa2yytkaqpcna9t3qlh1dun24h1" border="0" title="contador web" alt="contador web"></a></noscript>
