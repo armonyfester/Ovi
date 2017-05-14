@@ -1,6 +1,6 @@
 # Introducci-n-al-desarrollo-de-software.OVI
 <htmL>
-<header><img src="logo.gif"></header>
+<header><img src="andychill/logo.gif"></header>
 
 <title>  OVI  </title>
 
