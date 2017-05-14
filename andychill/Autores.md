@@ -12,8 +12,9 @@
  
  <CENTER><h1>AUTOR</h1></CENTER> 
 
-<CENTER><h1 align=center><IMG SRC="imagenes/aut.png" ></IMG></h1></CENTER>
-<CENTER><h1>2017</h1></CENTER> 
+<CENTER><IMG SRC="imagenes/aut.png" ></IMG></CENTER>
+
+<CENTER><H1>2017</H1></CENTER> 
 <div class="social">
 		<ul>
 			<li><a href="http://www.facebook.com" target="_blank" class="icon-facebook2"></a></li>
