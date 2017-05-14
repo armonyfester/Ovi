@@ -29,8 +29,8 @@
 }
    </style>
 
-<link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
-<link rel="stylesheet"  href="estilos/fonts.css">
+<link rel="stylesheet" type="text/css" a href="andychill/estilos/estilos.css">
+<link rel="stylesheet"  href="andychill/estilos/fonts.css">
 
 
 <CENTER><IMG SRC="andychill/imagenes/OVI.png"></IMG></CENTER> 
