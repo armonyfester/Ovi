@@ -1,7 +1,7 @@
 <html>
 
 <title>Objetivos</title>
-<header><img src="logo.gif" width"90" height"40"></img></header>
+<header><img src="andychill/logo.gif" width"90" height"40"></header>
 
 <body background="imagenes/a.jpg">
 <link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
@@ -14,7 +14,7 @@
 
 
 
-<CENTER><h1><font face="Comic Sans MS"><IMG SRC="imagenes/objetivos.png" width"90" height"40"></IMG></font></h1></CENTER> 
+<CENTER><h1><IMG SRC="andychill/imagenes/objetivos.png" width"90" height"40"></IMG></h1></CENTER> 
 
 <article><h2><center><ul type="square"> 
 <li>Orientar al programador en los pasos a seguir para saber cómo desarrollar un software.</li> 
