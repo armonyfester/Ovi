@@ -1,9 +1,10 @@
 <html>
 <header><img src="logo.gif" width"90" height"40"></img></header>
+<head>
 <link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
 	<link rel="stylesheet"  href="estilos/fonts.css">
 <title>Lecturas</title>
-<head>
+
 <body background="imagenes/c.jpg">
 
 <H1><CENTER><font face="Comic Sans MS"><IMG SRC="imagenes/LECTU.png" width"90" height"40"></IMG></font face="Comic Sans MS"></CENTER> </H1>
