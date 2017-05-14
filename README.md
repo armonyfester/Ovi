@@ -52,7 +52,7 @@
 <ul>
 <H1>
 <li class="navhome"><a href="andychill/Inicio.htmL"><span>Objetivos </span></a></li>
-<li class="navhome"><a href="andychill/lecturas.htmL"><span>Lecturas</span></a></li>
+<li class="navhome"><a href="andychill/Lecturas.htmL"><span>Lecturas</span></a></li>
 <li class="navhome"><a href="andychill/Multimedia.htmL"><span>Multimedia</span></a></li>
 <li class="navhome"><a href="andychill/Autores.htmL"><span>Autores</span></a></li>
 </H1>
