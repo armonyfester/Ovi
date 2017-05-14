@@ -33,7 +33,7 @@
 <link rel="stylesheet"  href="estilos/fonts.css">
 
 
-<CENTER><IMG SRC="andychill/imagenes/OVI.png"></IMG></CENTER> 
+<CENTER><IMG SRC="imagenes/OVI.png"></IMG></CENTER> 
 
 <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=37nwfaa2yytkaqpcna9t3qlh1dun24h1"></script>
 <noscript><a href="https://www.contadorvisitasgratis.com" title="contador web"><img src="https://counter1.fcs.ovh/private/contadorvisitasgratis.php?c=37nwfaa2yytkaqpcna9t3qlh1dun24h1" border="0" title="contador web" alt="contador web"></a></noscript>
@@ -105,7 +105,7 @@ relativos esencialmente a la naturaleza del producto.</P>
 
 <div class="social">
 		<ul>
-			<li><a href="http://www.facebook.com" target="_blank" class="estilos/fonts.css/icon-facebook2"></a></li>
+			<li><a href="http://www.facebook.com" target="_blank" class="icon-facebook2"></a></li>
 			<li><a href="http://www.twitter.com" target="_blank" class="icon-twitter"></a></li>
 			<li><a href="mailto:armonyfester@gmail.com" class="icon-mail"></a></li>
                         <li><a href="http://www.youtube.com" target="_blank" class="icon-youtube"></a></li>
