@@ -51,10 +51,10 @@
 <div id="navegador">
 <ul>
 <H1>
-<li class="navhome"><a href="andychill/Inicio.md"><span>Objetivos </span></a></li>
-<li class="navhome"><a href="andychill/Lecturas.htmL"><span>Lecturas</span></a></li>
-<li class="navhome"><a href="andychill/Multimedia.htmL"><span>Multimedia</span></a></li>
-<li class="navhome"><a href="andychill/Autores.htmL"><span>Autores</span></a></li>
+<li class="navhome"><a href="Inicio.md"><span>Objetivos </span></a></li>
+<li class="navhome"><a href="Lecturas.htmL"><span>Lecturas</span></a></li>
+<li class="navhome"><a href="Multimedia.htmL"><span>Multimedia</span></a></li>
+<li class="navhome"><a href="Autores.htmL"><span>Autores</span></a></li>
 </H1>
 </ul>
 </div>
