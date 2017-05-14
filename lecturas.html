@@ -1,12 +1,12 @@
 <html>
-<header><img src="logo.gif" width"90" height"40"></img></header>
-<link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
-	<link rel="stylesheet"  href="estilos/fonts.css">
+<header><img src="andychill/logo.gif" width"90" height"40"></img></header>
+<link rel="stylesheet" type="text/css" a href="andychill/estilos/estilos.css">
+	<link rel="stylesheet"  href="andychill/estilos/fonts.css">
 <title>Lecturas</title>
 <head>
-<body background="imagenes/c.jpg">
+<body background="andychill/imagenes/c.jpg">
 
-<H1><CENTER><font face="Comic Sans MS"><IMG SRC="imagenes/LECTU.png" width"90" height"40"></IMG></font face="Comic Sans MS"></CENTER> </H1>
+<H1><CENTER><font face="Comic Sans MS"><IMG SRC="andychill/imagenes/LECTU.png" width"90" height"40"></IMG></font face="Comic Sans MS"></CENTER> </H1>
 </head>
 <H2><article><p><center>Las lecturas que encontraremos aqui nos permitiran conocer mas a fondo la Ingenieria de Desarrollo de Software.</center></p></article></H2>
 <article><center><h4><p>Adelante!!!</h4></p></article></center>
@@ -17,11 +17,11 @@
 
 <ul>
 
-<li class="navhome"><a href="pdf/DESARROLLO DE SFTW.pdf"><span><h1>Lectura sobre el desarrollo de software</h1></span></a></li>
+<li class="navhome"><a href="andychill/pdf/DESARROLLO DE SFTW.pdf"><span><h1>Lectura sobre el desarrollo de software</h1></span></a></li>
 
-<li><a href="pdf/computacion05.pdf"><span><h1>Metodologias para el desarrollo de software </h1></span></a></li>
+<li><a href="andychill/pdf/computacion05.pdf"><span><h1>Metodologias para el desarrollo de software </h1></span></a></li>
 
-<li><a href="pdf/software de visualizacion.pdf"><span><h1>Software de vizualizacion</h1></span></a></li>
+<li><a href="andychill/pdf/software de visualizacion.pdf"><span><h1>Software de vizualizacion</h1></span></a></li>
 
 
 </ul>
