@@ -1,11 +1,11 @@
 <html>
 
 <title>Objetivos</title>
-<header><img src="logo.gif" width"90" height"40"></img></header>
+<header><img src="andychill/logo.gif" width"90" height"40"></img></header>
 <head>
-<body background="imagenes/a.jpg">
-<link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
-<link rel="stylesheet"  href="estilos/fonts.css">
+<body background="andychill/imagenes/a.jpg">
+<link rel="stylesheet" type="text/css" a href="andychill/estilos/estilos.css">
+<link rel="stylesheet"  href="andychill/estilos/fonts.css">
 
 </head>
 
@@ -14,7 +14,7 @@
 
 
 
-<H1><CENTER><font face="Comic Sans MS"><IMG SRC="imagenes/objetivos.png" width"90" height"40"></IMG></font face="Comic Sans MS"></CENTER> </H1>
+<H1><CENTER><font face="Comic Sans MS"><IMG SRC="andychill/imagenes/objetivos.png" width"90" height"40"></IMG></font face="Comic Sans MS"></CENTER> </H1>
 <H2>
 <article><center><ul type="square"> 
 <li>Orientar al programador en los pasos a seguir para saber cómo desarrollar un software.</li> 
@@ -25,7 +25,7 @@
 <article></H2>
 
 <H1><CENTER><font face="Comic Sans MS"><I>TEMATICAS DEL DEL CURSO</I></font face="Comic Sans MS"></CENTER> </H1>
-<CENTER><IMG SRC="imagenes/rueda.gif" width"90" height"40"></IMG></CENTER>
+<CENTER><IMG SRC="andychill/imagenes/rueda.gif" width"90" height"40"></IMG></CENTER>
 <ul> 
 <H1><center>1.	Etapas:</center></H1>
 <H4><li><center>Wáter fall</center></li></H4>
@@ -73,11 +73,11 @@ donde los requisitos y soluciones evolucionan con el tiempo según la necesidad 
 inmersos en un proceso compartido de toma de decisiones a corto plazo.<a href="https://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software" target="blank">wikipedia/Desarrolo agil de software</a></H2></article></p>
 <div class="social">
 		<ul>
-			<li><a href="http://www.facebook.com" target="_blank" class="icon-facebook2"></a></li>
-			<li><a href="http://www.twitter.com" target="_blank" class="icon-twitter"></a></li>
-			<li><a href="http://www.googleplus.com/armonyfester@gmail.com" target="_blank" class="icon-google-plus2"></a></li>
+			<li><a href="http://www.facebook.com" target="_blank" class="andychill/icon-facebook2"></a></li>
+			<li><a href="http://www.twitter.com" target="_blank" class="andychill/icon-twitter"></a></li>
+			<li><a href="http://www.googleplus.com/armonyfester@gmail.com" target="_blank" class="andychill/icon-google-plus2"></a></li>
 			<li><a href="mailto:armonyfester@gmail.com" class="icon-mail"></a></li>
-                        <li><a href="http://www.youtube.com" target="_blank" class="icon-youtube"></a></li>
+                        <li><a href="http://www.youtube.com" target="_blank" class="andychill/icon-youtube"></a></li>
 		</ul>
 	</div>
 </body>
