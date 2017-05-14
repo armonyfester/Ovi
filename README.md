@@ -52,7 +52,7 @@
 <ul>
 <H1>
 <li class="navhome"><a href="Inicio.md"><span>Objetivos </span></a></li>
-<li class="navhome"><a href="Lecturas.htmL"><span>Lecturas</span></a></li>
+<li class="navhome"><a href="Lecturas.md"><span>Lecturas</span></a></li>
 <li class="navhome"><a href="Multimedia.htmL"><span>Multimedia</span></a></li>
 <li class="navhome"><a href="Autores.htmL"><span>Autores</span></a></li>
 </H1>
@@ -105,7 +105,7 @@ relativos esencialmente a la naturaleza del producto.</P>
 
 <div class="social">
 		<ul>
-			<li><a href="http://www.facebook.com" target="_blank" class="icon-facebook2"></a></li>
+			<li><a href="http://www.facebook.com" target="_blank" class="estilos/fonts.css/icon-facebook2"></a></li>
 			<li><a href="http://www.twitter.com" target="_blank" class="icon-twitter"></a></li>
 			<li><a href="mailto:armonyfester@gmail.com" class="icon-mail"></a></li>
                         <li><a href="http://www.youtube.com" target="_blank" class="icon-youtube"></a></li>
