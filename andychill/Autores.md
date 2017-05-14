@@ -4,15 +4,15 @@
 
 
 
-<link rel="stylesheet"  href="estilos/fonts.css">
-<link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
+<link rel="stylesheet"  href="andychil/estilos/fonts.css">
+<link rel="stylesheet" type="text/css" a href="andychill/estilos/estilos.css">
 
 
 <body background="imagenes/f.jpg">
  
  <CENTER><h1>AUTOR</h1></CENTER> 
 
-<CENTER><h1 align=center><IMG SRC="imagenes/aut.png" width"90" height"40"></IMG></h1></CENTER>
+<CENTER><h1 align=center><IMG SRC="andychill/imagenes/aut.png" width"90" height"40"></IMG></h1></CENTER>
 <h1>    <CENTER>2017</CENTER> </h1>
 <div class="social">
 		<ul>
