@@ -1,7 +1,7 @@
 <html>
 
 <title>Objetivos</title>
-<header><img src="andychill/logo.gif" width"90" height"40"></header>
+<header><img src="logo.gif"></header>
 
 <body background="imagenes/a.jpg">
 <link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
@@ -14,7 +14,7 @@
 
 
 
-<CENTER><h1><IMG SRC="andychill/imagenes/objetivos.png" width"90" height"40"></IMG></h1></CENTER> 
+<CENTER><h1><IMG SRC="imagenes/objetivos.png"></IMG></h1></CENTER> 
 
 <article><h2><center><ul type="square"> 
 <li>Orientar al programador en los pasos a seguir para saber cómo desarrollar un software.</li> 
@@ -25,7 +25,7 @@
 <article>
 
 <CENTER><h1><font face="Comic Sans MS"><I>TEMATICAS DEL DEL CURSO</I></font></h1></CENTER> 
-<CENTER><IMG SRC="imagenes/rueda.gif" width"90" height"40"></IMG></CENTER>
+<CENTER><IMG SRC="imagenes/rueda.gif"></IMG></CENTER>
 <ul> 
 <H1><center>1.	Etapas:</center></H1>
 <H4><li><center>Wáter fall</center></li></H4>
