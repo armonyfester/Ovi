@@ -12,7 +12,7 @@
  
  <CENTER><h1>AUTOR</h1></CENTER> 
 
-<CENTER><IMG SRC="imagenes/aut.png" ></IMG></CENTER>
+<aling center><CENTER><IMG SRC="imagenes/aut.png" ></IMG></CENTER></aling>
 
 <CENTER><H1>2017</H1></CENTER> 
 <div class="social">
