@@ -8,7 +8,7 @@
 <body background="imagenes/c.jpg">
 
 <H1><CENTER><font face="Comic Sans MS"><IMG SRC="imagenes/LECTU.png" width"90" height"40"></IMG></font face="Comic Sans MS"></CENTER> </H1>
-</head>
+
 <H2><article><p><center>Las lecturas que encontraremos aqui nos permitiran conocer mas a fondo la Ingenieria de Desarrollo de Software.</center></p></article></H2>
 <article><center><h4><p>Adelante!!!</h4></p></article></center>
 <article><center>
@@ -42,5 +42,5 @@
 	</div>
 </body>
 
-
+</head>
 </html>
