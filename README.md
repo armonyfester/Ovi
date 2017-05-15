@@ -115,11 +115,13 @@ relativos esencialmente a la naturaleza del producto.</P>
 
 </html>
 
+
+
 ####Inicio-Objetivos
 <html>
 
 <title>Objetivos</title>
-<header><img src="logo.gif"></header>
+<header><img src="andychill/logo.gif"></header>
 
 <body background="imagenes/a.jpg">
 <link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
@@ -132,7 +134,7 @@ relativos esencialmente a la naturaleza del producto.</P>
 
 
 
-<CENTER><h1><IMG SRC="imagenes/objetivos.png"></IMG></h1></CENTER> 
+<CENTER><h1><IMG SRC="andychill/imagenes/objetivos.png"></IMG></h1></CENTER> 
 
 <article><h2><center><ul type="square"> 
 <li>Orientar al programador en los pasos a seguir para saber cómo desarrollar un software.</li> 
@@ -143,7 +145,7 @@ relativos esencialmente a la naturaleza del producto.</P>
 <article>
 
 <CENTER><h1><font face="Comic Sans MS"><I>TEMATICAS DEL DEL CURSO</I></font></h1></CENTER> 
-<CENTER><IMG SRC="imagenes/rueda.gif"></IMG></CENTER>
+<CENTER><IMG SRC="andychill/imagenes/rueda.gif"></IMG></CENTER>
 <ul> 
 <H1><center>1.	Etapas:</center></H1>
 <H4><li><center>Wáter fall</center></li></H4>
@@ -204,18 +206,22 @@ inmersos en un proceso compartido de toma de decisiones a corto plazo.</p>
 
 
 </html>
+
+
+
+ç
 ## Lecturas
 <html>
-<header><img src="logo.gif"></header>
+<header><img src="andychill/logo.gif"></header>
 
 <link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
 <link rel="stylesheet"  href="estilos/fonts.css">
 
 <title>Lecturas</title>
 
-<body background="imagenes/c.jpg">
+<body background="andychill/imagenes/c.jpg">
 
-<CENTER><h1><font face="Comic Sans MS"><IMG SRC="imagenes/LECTU.png"></IMG></font></h1></CENTER> 
+<CENTER><h1><font face="Comic Sans MS"><IMG SRC="andychill/imagenes/LECTU.png"></IMG></font></h1></CENTER> 
 
 <article><center><h2><p>Las lecturas que encontraremos aqui nos permitiran conocer mas a fondo la Ingenieria de Desarrollo de Software.</p></h2></center></article>
 <article><center><h4><p>Adelante!!!</p></h4></center></article>
@@ -252,9 +258,9 @@ inmersos en un proceso compartido de toma de decisiones a corto plazo.</p>
 
 
 </html>
-###Multimedia
+###Autores
 <html>
-<header><img src="logo.gif"></header>
+<header><img src="andychill/logo.gif"></header>
 <head>
 
 
@@ -267,7 +273,7 @@ inmersos en un proceso compartido de toma de decisiones a corto plazo.</p>
  
  <CENTER><h1>AUTOR</h1></CENTER> 
 
-<aling center><CENTER><IMG SRC="imagenes/aut.png" ></IMG></CENTER></aling>
+<aling center><CENTER><IMG SRC="andychill/imagenes/aut.png" ></IMG></CENTER></aling>
 
 <CENTER><H1>2017</H1></CENTER> 
 <div class="social">
@@ -284,4 +290,39 @@ inmersos en un proceso compartido de toma de decisiones a corto plazo.</p>
 </head>
 </html>
 
-#####Autores
+#####Multimedia
+<html>
+<header><img src="andychill/logo.gif"></header>
+
+<body background="imagenes/d.png">
+	<title>multimedia</title>
+	<link rel="stylesheet" type="text/css" a href="estilos/estilos.css">
+	<link rel="stylesheet"  href="estilos/fonts.css">
+
+<CENTER><IMG SRC="andychill/imagenes/ug.png"></IMG></CENTER> 
+
+<div class="contenedor">
+		<H2><article><p><center>Aqui encontraremos videos y paginas web referentes al desarrollo de software</center></p></article></H2>
+	</div>
+	
+<article><h2><center><p>
+Esta por ejemplo es una pagina especializada en el desarrolo de software(mantenimineto, planeación, diseño, implantación etc)</p>
+<a href="http://bluesoft.com.co/?gclid=CjwKEAjwoLfHBRD_jLW93remyAQSJABIygGpF-6cPvfcwJ5Kzdpbm7yFWjJCEKJbn1fil_tRl09N5xoCQqfw_wcB" target="blank">Blue Soft</a></center></h2></article>
+
+<article><h2><center><p>
+Y este es un video el cual te dara una vista basica de lo que significa el desarrollo de software</p> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5eUyXlfCgoI?ecver=1" frameborder="0" allowfullscreen></iframe>	
+</center></h2></article>
+
+<div class="social">
+		<ul>
+			<li><a href="http://www.facebook.com" target="_blank" class="icon-facebook2"></a></li>
+			<li><a href="http://www.twitter.com" target="_blank" class="icon-twitter"></a></li>
+			<li><a href="mailto:armonyfester@gmail.com" class="icon-mail"></a></li>
+                        <li><a href="http://www.youtube.com" target="_blank" class="icon-youtube"></a></li>
+		</ul>
+	</div>
+</body>
+</html>
+
